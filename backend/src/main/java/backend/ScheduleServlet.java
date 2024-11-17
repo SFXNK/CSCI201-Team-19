@@ -1,4 +1,4 @@
-package com.example.controller;
+package backend;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
