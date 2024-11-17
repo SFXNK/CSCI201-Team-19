@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFXNK/CSCI201-Team-19.git"
+  },
+  "author": "felix chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFXNK/CSCI201-Team-19/issues"
+  },
+  "homepage": "https://github.com/SFXNK/CSCI201-Team-19#readme",
+  "description": ""
+}
