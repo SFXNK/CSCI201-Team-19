@@ -1,0 +1,33 @@
+<!-- marketplace.html -->
+<form id="search-form">
+    <h2>Search Courses</h2>
+    <label for="search-keyword">Keyword:</label>
+    <input type="text" id="search-keyword" name="keyword" />
+  
+    <label for="filter-time">Time:</label>
+    <input type="time" id="filter-time" name="time" />
+  
+    <label for="filter-professor">Professor:</label>
+    <input type="text" id="filter-professor" name="professor" />
+  
+    <label for="filter-days">Days:</label>
+    <select id="filter-days" name="days">
+      <option value="">Any</option>
+      <option value="Monday">Monday</option>
+      <!-- Add more options -->
+    </select>
+  
+    <label for="filter-type">Course Type:</label>
+    <select id="filter-type" name="courseType">
+      <option value="">Any</option>
+      <option value="CSCI">CSCI</option>
+      <!-- Add more options -->
+    </select>
+  
+    <button type="submit">Search</button>
+  </form>
+  
+  <div id="search-results">
+    <!-- Display search results here -->
+  </div>
+  
